@@ -1,3 +1,3 @@
 #/bin/bash
 omar="hello"
-echo ".....$omar
+echo ".....$omar"
